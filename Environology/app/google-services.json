@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262568952586",
+    "project_id": "environology-26244",
+    "storage_bucket": "environology-26244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262568952586:android:5a7e9b7b5574fa15d9f0f3",
+        "android_client_info": {
+          "package_name": "sp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262568952586-3vunu9th48vomdns5dim7c6avkrmej0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKN8YNwx4Wcxddnz1miOIRp0F58D266E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262568952586-3vunu9th48vomdns5dim7c6avkrmej0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

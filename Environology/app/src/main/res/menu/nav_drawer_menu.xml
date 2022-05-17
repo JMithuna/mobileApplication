@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="About"
+        android:icon="@drawable/ic_about"
+        android:id="@+id/consumerAbout"/>
+
+    <item
+        android:title="Environmental Sustainability"
+        android:icon="@drawable/ic_env_sustainability"
+        android:id="@+id/consumerEnvSus"/>
+
+    <item
+        android:title="Volunteer Now"
+        android:icon="@drawable/ic_volunteer"
+        android:id="@+id/consumerVolunteer"/>
+
+    <item
+        android:title="Messages"
+        android:icon="@drawable/ic_messages"
+        android:id="@+id/consumerMessages"/>
+
+    <item
+        android:title="Places"
+        android:icon="@drawable/ic_places"
+        android:id="@+id/consumerPlaces"/>
+
+    <item
+        android:title="Carbon Footprint"
+        android:icon="@drawable/ic_carbon_footprint"
+        android:id="@+id/consumerCarbonFootprint"/>
+
+</menu>

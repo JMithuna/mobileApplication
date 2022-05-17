@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/business_nav"
+    app:startDestination="@id/businessHome">
+
+    <fragment
+        android:id="@+id/businessHome"
+        android:name="sp.com.BusinessHome"
+        android:label="business_home"
+        tools:layout="@layout/business_home" />
+    <fragment
+        android:id="@+id/businessRecycled"
+        android:name="sp.com.BusinessRecycled"
+        android:label="business_recycled"
+        tools:layout="@layout/business_recycled" />
+    <fragment
+        android:id="@+id/businessDonated"
+        android:name="sp.com.BusinessDonated"
+        android:label="business_donated"
+        tools:layout="@layout/business_donated" />
+    <fragment
+        android:id="@+id/businessOrders"
+        android:name="sp.com.BusinessOrders"
+        android:label="business_orders"
+        tools:layout="@layout/business_orders" />
+    <fragment
+        android:id="@+id/businessPartners"
+        android:name="sp.com.BusinessPartners"
+        android:label="business_partners"
+        tools:layout="@layout/business_partners" />
+</navigation>

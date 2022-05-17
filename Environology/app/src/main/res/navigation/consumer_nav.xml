@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/consumer_nav"
+    app:startDestination="@id/consumerHome">
+
+    <fragment
+        android:id="@+id/consumerHome"
+        android:name="sp.com.ConsumerHome"
+        android:label="consumer_home"
+        tools:layout="@layout/consumer_home" />
+    <fragment
+        android:id="@+id/consumerDonate"
+        android:name="sp.com.ConsumerDonate"
+        android:label="consumer_donate"
+        tools:layout="@layout/consumer_donate" />
+    <fragment
+        android:id="@+id/consumerRecycle"
+        android:name="sp.com.ConsumerRecycle"
+        android:label="consumer_recycle"
+        tools:layout="@layout/consumer_recycle" />
+    <fragment
+        android:id="@+id/consumerBuy"
+        android:name="sp.com.ConsumerBuy"
+        android:label="consumer_buy"
+        tools:layout="@layout/consumer_buy" />
+    <fragment
+        android:id="@+id/consumerRewards"
+        android:name="sp.com.ConsumerRewards"
+        android:label="consumer_rewards"
+        tools:layout="@layout/consumer_rewards" />
+</navigation>

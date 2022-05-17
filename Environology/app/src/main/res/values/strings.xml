@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Environology</string>
+    <string name="tagline">See what, you can do for, the environment right now.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="title_activity_environment_map">EnvironmentMap</string>
+</resources>

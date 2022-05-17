@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/ic_home_nav"
+        android:id="@+id/consumerHome"/>
+    <item
+        android:title="Recycle"
+        android:icon="@drawable/ic_recycle_nav"
+        android:id="@+id/consumerRecycle"/>
+    <item
+        android:title="Donate"
+        android:icon="@drawable/ic_donate_nav"
+        android:id="@+id/consumerDonate"/>
+    <item
+        android:title="Buy"
+        android:icon="@drawable/ic_buy_nav"
+        android:id="@+id/consumerBuy"/>
+    <item
+        android:title="Rewards"
+        android:icon="@drawable/ic_reward_nav"
+        android:id="@+id/consumerRewards"/>
+</menu>

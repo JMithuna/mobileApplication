@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/ic_home_bnav"
+        android:id="@+id/businessHome"/>
+    <item
+        android:title="Recycled"
+        android:icon="@drawable/ic_recycled_bnav"
+        android:id="@+id/businessRecycled"/>
+    <item
+        android:title="Donated"
+        android:icon="@drawable/ic_donated_bnav"
+        android:id="@+id/businessDonated"/>
+    <item
+        android:title="Orders"
+        android:icon="@drawable/ic_orderlist_bnav"
+        android:id="@+id/businessOrders"/>
+    <item
+        android:title="Partners"
+        android:icon="@drawable/ic_handshake_bnav"
+        android:id="@+id/businessPartners"/>
+
+</menu>
